@@ -15,7 +15,7 @@ In other cases, only "@Submitter" is listed.
 | Longest  | PARIS single (@haz-single) | recongo (@YuyaYamada-N) | ReconfAIGERation (@Froleyks) |
 |          | 144                        | 115                     | 54                           |
 
-- [Detailed results](solver-single/index.md)
+- [Detailed results](solver-single/)
 
 ### Overall Solvers (including portfolio)
 
@@ -28,7 +28,7 @@ In other cases, only "@Submitter" is listed.
 | Longest  | PARIS single (@haz-single) | recongo (@YuyaYamada-N) | PARIS (@haz)            |
 |          | 143                        | 115                     | 90                      |
 
-- [Detailed results](solver-overall/index.md)
+- [Detailed results](solver-overall/)
 
 ### Author List (collected from the descriptions)
 
