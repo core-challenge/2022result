@@ -1,4 +1,7 @@
 
+- [Solver Track Results](#solver-track-results)
+- [Graph Track Results](#graph-track-results)
+
 ## Solver Track Results
 
 If a solver name is provided, it is written as "Solver name (@Submitter)". 
