@@ -1,9 +1,9 @@
 
 # Summary
 
-
-- This page is private and only for reviewing purpose for a while. 
-- Raw results in this page are currently under review. 
+- ~~This page is private and only for reviewing purpose for a while.~~
+- ~~Raw results in this page are currently under review.~~
+- The result is the final version.
 - Tables contain both sequential and portfolio solvers. 
 - (Note) TakehideSoh is one of the organizers. So, it is reference and not counted for the competition.
 - (Note) tigrisg is disqualified in the Existent metric since it outputs "no" to an instance where a correct reconfiguration sequence exists.

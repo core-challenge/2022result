@@ -1,3 +1,4 @@
+- The result is the final version.
 
 | V | [akkyhowa](../description/graph/akkyhowa.pdf) | [haz](../description/graph/haz.pdf) | [karakasaDcFd](../description/graph/karakasaDcFd.pdf) | [telematik-tuhh](../description/graph/telematik-tuhh.pdf) | tigrisg | [tpierron](../description/graph/tpierron.pdf) |
 | --- | --- | --- | --- | --- | --- | --- |
